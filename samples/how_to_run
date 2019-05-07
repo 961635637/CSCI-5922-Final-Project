@@ -1,0 +1,1 @@
+python3 balloon.py splash --image=/home/group/mask_RCNN/datasets/corn/val/crop_0.jpg --weights=/home/group/mask_RCNN/logs/corn20181213T1042/mask_rcnn_corn_0102.h5
